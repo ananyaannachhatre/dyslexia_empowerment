@@ -12,10 +12,10 @@ It challenges users with words of varying difficulty, records their pronunciatio
 
 ## 📂 Project Structure
 dyslexia_empowerment/
-├── LexiPioneers(PronunciationAnalyzerGenAI).ipynb # Main notebook
-├── phoneticDictionary.xls # Original phonetic dataset
-├── phoneticdict_with_labels.xls # Labeled phonetic dataset
-├── .gitignore
+--LexiPioneers(PronunciationAnalyzerGenAI).ipynb # Main notebook
+--phoneticDictionary.xls # Original phonetic dataset
+-- phoneticdict_with_labels.xls # Labeled phonetic dataset
+-- .gitignore
 
 
 
