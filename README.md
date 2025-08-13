@@ -20,15 +20,14 @@ dyslexia_empowerment/
 
 
 ## 🛠 Installation
-1. **Clone this repository**
-2. 
+1. **Clone this repository** 
 git clone https://github.com/<your-username>/dyslexia_empowerment.git
 cd dyslexia_empowerment
 
-Install dependencies
+2. Install dependencies
 pip install pandas SpeechRecognition transformers python-Levenshtein
 
-Download required datasets
+3. Download required datasets
 Ensure phoneticDictionary.xls and phoneticdict_with_labels.xls are in the root directory.
 
 🎯 Usage
